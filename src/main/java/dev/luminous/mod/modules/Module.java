@@ -275,6 +275,6 @@ public abstract class Module extends Mod {
 	}
 
 	public enum Category {
-		Combat, Misc, Render, Movement, Player, Exploit, Client
+		fighting, useful, render, motion, player, exploitation, client
 	}
 }
